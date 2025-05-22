@@ -9,12 +9,17 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
+        List {
+            ForEach(learnerViews, id: \.name) { learnerView in
+                NavigationLink {
+                    AnyView(learnerView)
+                } label: {
+                    Text(learnerView.name)
+                }
+            }
         }
+        .navigationTitle("We all Learners 😄")
+        .listStyle(.inset)
         .padding()
     }
 }
