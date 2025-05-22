@@ -10,3 +10,4 @@
 - [ ] 파일 이름은 컨벤션에 알맞게 작성되었나요?
 - [ ] Model/LearnerViews.swift에 있는 배열에 새로 작성된 뷰가 추가되었나요?
 - [ ] Develop Branch로의 PR인가요?
+- [ ] Build가 되는지 (에러가 없는지) 확인했나요?
