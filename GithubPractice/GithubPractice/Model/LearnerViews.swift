@@ -9,12 +9,14 @@ import Foundation
 
 // TODO: 2. learnerViews에 자신의 View 추가하고 커밋!
 let learnerViews: [any LearnerView] = [
+    PepprView(),
     LumiView(),
     JudyView(),
     FridayView(),
     ElenaView(),
     JudyJView(),
     NaylView(),
+    YoshiView(),
+    NathanView(),
     PresenceView()
-
 ]
