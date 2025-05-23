@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct ZhenView: View {
+struct ZhenView: LearnerView {
     var name: String = "zhen"
     
     var team: String = "송건"
