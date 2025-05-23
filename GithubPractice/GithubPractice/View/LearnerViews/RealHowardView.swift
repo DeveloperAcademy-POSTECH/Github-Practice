@@ -7,7 +7,12 @@
 
 import SwiftUI
 
-struct RealHowardView: View {
+struct RealHowardView: LearnerView {
+    // TODO: 1. 이름, 팀 수정하고 커밋하기
+    var name: String = "Howard"
+    
+    var team: String = "멘토팀"
+    
     var body: some View {
         VStack {
             Text("안녕하세요 하워드 입니다😄")
