@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct SeraView: View {
+struct SeraView: LearnerView {
     var name: String = "Sera"
     
     var team: String = "Like Ginie"
