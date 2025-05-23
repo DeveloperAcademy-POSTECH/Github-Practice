@@ -22,5 +22,5 @@ struct YeonyView: LearnerView {
 }
 
 #Preview {
-    LumiView()
+    YeonyView()
 }
