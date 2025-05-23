@@ -11,6 +11,8 @@ import Foundation
 let learnerViews: [any LearnerView] = [
     LumiView(),
     FridayView(),
-    WayView()
+    WayView(),
+    ElenaView(),
+    JudyJView()
 ]
  
