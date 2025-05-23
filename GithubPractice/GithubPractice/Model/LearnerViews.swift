@@ -14,5 +14,5 @@ let learnerViews: [any LearnerView] = [
     FridayView(),
     ElenaView(),
     JudyJView(),
-    EmmaView()
+    EmmaView() // 엠마 추가
 ]
