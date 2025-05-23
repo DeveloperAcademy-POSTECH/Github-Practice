@@ -22,5 +22,5 @@ struct CherryView: LearnerView {
 }
 
 #Preview {
-    LumiView()
+    CherryView()
 }
