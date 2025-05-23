@@ -13,6 +13,13 @@ Challenge 3을 맞이하여 나의 이름과 팀을 소개하는 뷰를 만들�
 PR에 문제가 없다면 Develop 브랜치로 Merge할 것 입니다.
 
 ## 📸 예시 이미지
+
+| 홈 뷰 | 나의 뷰 |
+|-------|--------|
+| ![Simulator Screenshot - iPhone 16 Pro - 2025-05-23 at 08 58 54](https://github.com/user-attachments/assets/9e8fc6a1-b1c2-455f-92df-4be6cf865bbc) | ![Simulator Screenshot - iPhone 16 Pro - 2025-05-23 at 08 58 58](https://github.com/user-attachments/assets/ebd25b72-be5e-49e1-bb04-98c5349f5930) |
+
+
+
 ### ✅ To-dos
 - [ ] Clone을 이용하여, 내 로컬 디렉토리에 내려받아주세요.
 - [ ] Github로 이동해서 Issue를 생성해주세요.
