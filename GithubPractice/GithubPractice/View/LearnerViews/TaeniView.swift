@@ -10,7 +10,7 @@ import SwiftUI
 struct TaeniView: LearnerView {
     // TODO: 1. 이름, 팀 수정하고 커밋하기
     var name: String = "Taeni"
-    var team: String = "Dog🐶Pamin"
+    var team: String = "Dog🐶Pamine"
     
     var body: some View {
         Text("저의 이름은 \(name)입니다.")
