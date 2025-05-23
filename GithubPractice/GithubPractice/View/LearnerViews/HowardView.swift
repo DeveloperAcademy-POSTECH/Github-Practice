@@ -9,7 +9,7 @@ import SwiftUI
 
 struct HowardView: LearnerView {
     // TODO: 1. 이름, 팀 수정하고 커밋하기
-    var name: String = "Lumi"
+    var name: String = "Howard"
     
     var team: String = "멘토팀"
     
